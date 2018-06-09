@@ -6,11 +6,18 @@ int main(){
 
 printf("Digite o primeiro numero\n");
 scanf("%f", &n1);
-do{
 
-printf("Digite o segundo numero\n");
-scanf("%f", &n2);
-}while ( n2 == 0);
+while ( n2 == 0)
+{
+	
+
+	printf("Digite o segundo numero\n");
+	scanf("%f", &n2);
+	printf("Valor Invalido\n");
+
+	
+	
+}
 
 result = n1 /n2;
 
