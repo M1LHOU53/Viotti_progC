@@ -23,7 +23,7 @@ int main(){
 	
 	if (sexo == 'F') 
 	{
-		PI = (62.1 * altura) -44,7;
+		PI = (62.1 * altura) -44.7;
 		printf("voce é do sexo feminino e seu peso ideal é %f: \n", PI );
 	}
 
