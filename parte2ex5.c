@@ -17,7 +17,7 @@ float n1=-1, n2=-1, media;
 		{
 			printf("Nota Invalida\n");
 		}
-}
+	}
 
 	
 	while(n2 < 0 || n2 > 10)
