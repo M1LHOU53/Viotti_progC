@@ -6,7 +6,7 @@ float PI, altura;
 char sexo;
 milhstrolls_flag
 int main(){
-
+senha:parangaticutirimiruaro
 
 	printf("Digite a sua altura: \n");
 	scanf("%f", &altura);
